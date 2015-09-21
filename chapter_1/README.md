@@ -1,48 +1,48 @@
-#pwd
+###pwd
       print working directory
-#hostname
+###hostname
       my computer's network name
-#mkdir
+###mkdir
       Make directory
-#cd
+###cd
       change directory
-#ls
+###ls
       List directory
-#rmdir
+###rmdir
       remove directory
-#pushd
+###pushd
       push directory
-#popd
+###popd
       pop directory
-#cp
+###cp
       copy a file or directory
-#mv
+###mv
       move a file or directory
-#less
+###less
       page through a file
-#cat
+###cat
       print the whole file
-#xargs
+###xargs
       execute arguments
-#find
+###find
       find files
-#grep
+###grep
       find things inside files
-#man
+###man
       read a manual page
-#apropos
+###apropos
       find what man page is appropriate
-#env
+###env
       look at your environment
-#echo
+###echo
       print some arguments
-#export
+###export
       export/set a new environment variable
-#exit
+###exit
       exit the shell
-#sudo
+###sudo
       DANGER! become super user root DANGER!
-#chmod
+###chmod
       change permission modifiers
-#chown
+###chown
       change ownership
