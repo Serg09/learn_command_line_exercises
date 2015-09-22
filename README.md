@@ -1,6 +1,6 @@
 # learn_command_line_exercises
 
-Learn Commands
+* Learn Commands
 
 As part of the Build the Toolbelt course,
 my instructor wants me to read through 
