@@ -1,3 +1,30 @@
+# Do More
+
+* _cd to the joe directory with one command._
+cd temp/stuff/things/frank/joe/
+
+* _cd back to temp with one command, but not further above that._
+cd ../../../../
+
+* _Find out how to cd to your "home directory" with one command._
+cd
+pwd /Users/viola_lv/
+
+*	_cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.)._
+cd Documents (used tab to make it faster): 
+Finder – Documents (in Favorites)
+
+*	_cd to your Downloads directory, then find it with your file browser._
+cd ..     cd Downloads
+Finder – Downloads (in Favorites)
+
+*	_Find another directory with your file browser, then cd to it._
+Finder – Desktop: cd ..      cd Desktop/
+
+*	_Remember when you put quotes around a directory with spaces in it? You can do that with any command. For example, if you have a directory I Have Fun, then you can do: cd "I Have Fun"_
+Got it
+
+
 # English quastions
 
 1) Can you cd into the temp directory?
@@ -27,4 +54,9 @@
 > to see working directory.
 > The working directory is /tmp and this is tmp directory for the all system and not the one that was created in chapter_5
 
+4) Can you go to the slash temp slash log directory?
+> No, I can not because there is no such directory **log** exist under the system tmp directory
 
+ 
+##### <font color="white"> What does the .. argument to cd do?
+> The **cd** with dash+double dots will move up one directory.
