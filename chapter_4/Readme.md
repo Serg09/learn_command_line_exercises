@@ -1,6 +1,6 @@
 # English quastions
 
-1) Can you make a temp directory?
+**1) Can you make a temp directory?**
 > Yes I can make a temo directory by running command: 
 
       mkdir temp
@@ -9,7 +9,7 @@
 
       mkdir tmp
       
-2) Can you make a log directory in your class directory?
+**2) Can you make a log directory in your class directory?**
 > Yes I can, but first I would go to my class directory. I would first run **pwd** command to see working directory
 and then to change to class directory would run command:
   
