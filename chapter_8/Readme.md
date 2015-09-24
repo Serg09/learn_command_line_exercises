@@ -1,6 +1,6 @@
 # English quastions
 
-**What the **pushd** and **popd** commands do?**
+**What the pushd and popd commands do?**
 > **pushd** command saves current directory in memory and moves to the other directories, and when needed to return to saved directory, use command **popd** to return to saved directory.
 
 # Do More
