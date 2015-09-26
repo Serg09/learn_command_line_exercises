@@ -42,6 +42,10 @@
 
             ls /Users/viola_vs
             
+> To see all files including hidden files I would run:
+
+            ls -a /Users/viola_vs
+            
 > Or
 >
 > To see files in my home directory, first I would **cd** into the home directory _/Users/viola_lv_
