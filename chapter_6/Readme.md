@@ -38,6 +38,12 @@
 
 
 **3) What files are in your home directory?**
+> I would run command
+
+            ls /Users/viola_vs
+            
+> Or
+>
 > To see files in my home directory, first I would **cd** into the home directory _/Users/viola_lv_
 > Then run command:
 
@@ -52,20 +58,19 @@
 .bash_profile.swp, .bashrc, .gemrc, .gitconfig, .gitignore_global, .irb-history, .mkshrc, .netrc, .profile, .viminfo,
 .zlogin, .zshrc, ~$_rsa.pub.pub, ~$id_rsa.pub
 
+
 **4) What's in slash temp?**
-> First, I would **cd** into the /tmp directory
-> In tmp directory I would run command: 
+> /tmp is a system temporary directory
 
-            ls -la
+> To see all files including hidden files in this directory I would run:
+
+            ls -a /tmp
             
-> to list full information about all files including hidden files.
-> The output for seven files looks like this:
+> The output is:
 
-            total 8
-            drwxrwxrwt  7 root      wheel  238 Sep 23 23:54 .
-            drwxr-xr-x@ 6 root      wheel  204 Apr 14 14:11 ..
-            srwxrwxrwx  1 viola_lv  wheel    0 Sep 23 23:13 .s.PGSQL.5432
-            -rw-------  1 viola_lv  wheel   49 Sep 23 23:13 .s.PGSQL.5432.lock
-            drwx------  3 viola_lv  wheel  102 Sep 23 23:12 com.apple.launchd.hpCVZNC6Vh
-            drwx------  3 viola_lv  wheel  102 Sep 23 23:12 com.apple.launchd.uJA8b4QxVE
-            srwxrwxrwx  1 viola_lv  wheel    0 Sep 23 23:13 mysql.sock
+.s.PGSQL.5432
+.s.PGSQL.5432.lock
+KSOutOfProcessFetcher.501.HVXI9pQwBk_bgiVJaTNhiQNhqxc=
+com.apple.launchd.0c5CyNEkyL
+com.apple.launchd.gG5J79pn1C
+mysql.sock
