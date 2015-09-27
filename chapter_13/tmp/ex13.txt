@@ -1,0 +1,11 @@
+[:haiku, :ruby] do
+|type| formalized poetry
+out of Japan; end
+
+class OpenSource
+has_and_belongs_to_many
+:developers; end
+
+WebFramework.find(:best)
+from the hand of DHH
+Rails belongs_to :all
