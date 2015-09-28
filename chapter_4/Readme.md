@@ -1,25 +1,16 @@
 # English quastions
 
-**1) Can you make a temp directory?**
-> Yes I can make a temo directory by running command: 
-
-      mkdir temp
-      
-> or as we referring temp directory to tmp I would run:
+### 1) I would just do mkdir tmp
+> make the tmp directory in the chapter_4 directory
 
       mkdir tmp
       
-**2) Can you make a log directory in your class directory?**
-> Yes I can, but first I would go to my class directory. I would first run **pwd** command to see working directory
-and then to change to class directory would run command:
-  
-      cd ../../..
+### 2) Can you make the log directory w/o first cd'ing to the directory?**
+> To make the log directory without cd'ing to the directory I would run:
 
-> To be sure I am in class directory I would run **pwd** command again
-> The output /Users/viola_lv/workspace/davinci_coders_t3_2015, which is my class directory
-> To make a log directory, under the class directory I would run command:
-
-      mkdir log
+      mkdir tmp/log/
       
-> Now when I list all directories under class directory using command **ls** I could see new directory named log.
+>  To check if log directory was created I would run ls tmp/
+
+> The output showed me the list of directories including log directory
 
