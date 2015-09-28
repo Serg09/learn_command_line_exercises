@@ -76,8 +76,8 @@ Got it
 ## "How to cd to your home directory": cd or cd ~
 > To change to my home directory I would run:
 
-      cd ~/workspace/davinci_coders_t3_2015/
+      cd ~viola_lv/
 
  
-##### <font color="dark blue"> What does the .. argument to cd do?
+##### <font color="blue"> What does the .. argument to cd do?
 > The **cd** with dash+double dots will move up one directory.
