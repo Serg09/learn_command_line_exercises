@@ -1,7 +1,7 @@
 ### Can you show me all the files in slash temp slash foo?
 > To show all the files in /tmp/foo/ directory using **find** command, I would do:
 
-      ind /tmp/foo/ -name "*.*" -print
+      find /tmp/foo/ -name "*.*" -print
       
 > The output shows me all files in that directory: 
 
