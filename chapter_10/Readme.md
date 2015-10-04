@@ -1,23 +1,23 @@
 # Can you copy the foo.txt file to slash temp?  (Create foo.txt first...)
-> First Iwould create the file foo.txt
+> First I would create the file foo.txt
 
       touch foo.txt
       
 >  Now I can copy foo.txt into tmp directory using command:
 
-      cp foo.txt tmp/
+      cp foo.txt /tmp
 
-> Now I have foo.txt file both chapter_10 and tmp directory
+> Now I have foo.txt file both chapter_10 and /tmp directory
 
 # Can you copy .bash_profile in your home directory to the current directory?
 > I would use **ls** command to see what in my home directory:
 
-      ls /Users/viola_vs
+      ls ~viola_vs/
       
 > In my home directory I have file **#.bash_profile#** 
 > Now when I know exactly that file in my home directory and I know exact name of the file I can copy file using command:
 
-      cp \#.bash_profile# workspace/davinci_coders_t3_2015/homework/learn_command_line_exercises/chapter_10/#.bash_profile#
+      cp ~/#.bash_profile# .
 
 > Now I have **#.bash_profile#** file in my **chapter_10** directory too.
 
