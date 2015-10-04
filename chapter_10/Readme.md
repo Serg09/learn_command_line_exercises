@@ -14,12 +14,12 @@
 
       ls ~viola_vs/
       
-> In my home directory I have file **#.bash_profile#** 
+> In my home directory I have file **.bash_profile** 
 > Now when I know exactly that file in my home directory and I know exact name of the file I can copy file using command:
 
-      cp ~/#.bash_profile# .
+      cp ~/.bash_profile .
 
-> Now I have **#.bash_profile#** file in my **chapter_10** directory too.
+> Now I have **.bash_profile** file in my **chapter_10** directory too.
 
 # What is ROBOCOPY
 > Robocopy is a robust file and folder copy. It copy a file only if source and destination are different in time stamps or in file sizes.
