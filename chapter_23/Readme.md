@@ -7,15 +7,15 @@
 **xargs** executes command line from standard input. 
 It takes standard input and executes it over the input. For example command:
 
-> ```xargs```
+```xargs```
 
-> ```Hello World```
+```Hello World```
 
-> execute: ctrl+d
+execute: ctrl+d
 
-> Output:
+Output:
 
-> ```Hello World```
+```Hello World```
 
 Using **Xargs** command with parameters gives wide range of possible outputs of standard input.
 
