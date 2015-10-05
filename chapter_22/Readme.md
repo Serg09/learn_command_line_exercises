@@ -73,4 +73,3 @@ Did some additional research for the environment variables, and here is more use
 * PS1: The primary command prompt definition. This is used to define what your prompt looks like when you start a shell session.
 
 * UID: The UID of the current user.
-
