@@ -7,9 +7,9 @@
 > **xargs** executes command line from standard input. 
 It takes standard input and executes it over the input. For example command
 
-```xargs```
+      xargs
 
-```Hello World```
+      Hello World
 
 execute: ctrl+d
 
