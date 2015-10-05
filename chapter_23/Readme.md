@@ -5,7 +5,7 @@
 ### xsargs
 
 > **xargs** executes command line from standard input. 
-It takes standard input and executes it over the input. For example command:
+It takes standard input and executes it over the input. For example command
 
 ```xargs```
 
