@@ -29,4 +29,12 @@ The output: ```/Users/viola_lv```
 Can you set your environment to have DEBUG set to true?
 ---
 
+To find correct command, first I would use Help to find out needed commands and parameters:
 
+```man env```
+
+Then I would run command:
+
+```env -i debug=on```
+
+to turn on debugging.
