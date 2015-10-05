@@ -1,5 +1,9 @@
 STANDARD ERROR
 
+ERROR
+
+STDERROR
+
 David Gordon Goddard
 
 An inference that’s very often made –
