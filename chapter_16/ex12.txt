@@ -1,3 +1,2 @@
-.
-ex12.txt
-.
+ex12.txt file
+

@@ -1,3 +1,2 @@
-.
-ex14.txt
-.
+ex14.txt file
+
