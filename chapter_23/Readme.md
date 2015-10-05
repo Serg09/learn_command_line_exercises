@@ -13,9 +13,7 @@ It takes standard input and executes it over the input. For example command:
 
 execute: ctrl+d
 
-Output:
-
-```Hello World```
+Output: ```Hello World```
 
 Using **Xargs** command with parameters gives wide range of possible outputs of standard input.
 
