@@ -40,17 +40,17 @@ When a user types in a command, the system will check directories in this order 
 
 I would run command:
 
-```export debug=on```
+```export debug=true```
 
-I then run command ```env``` to check if debug is turned on.
+I then run command ```env``` to check if debug is set to true.
 
 ### Can you remove the debug environment variable?
 
 I would run command:
 
-```export debug=off```
+```unset debug```
 
-I then run command ```env``` to check if debug is off now.
+I then run command ```env``` to check if debug is set to false.
 
 ### Add your environment variables, and what they do to your Readme.md.
 
